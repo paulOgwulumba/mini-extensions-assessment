@@ -1,0 +1,1 @@
+export const seperateNames = (names: string[]) => (names.join(", "));

@@ -1,0 +1,23 @@
+.wrapper {
+    border-color: rgb(207, 206, 206);
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    padding: 10px;
+    display: flex;
+    justify-content: left;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 250px;
+}
+
+.wrapper p {
+    text-align: left;
+    margin: 0;
+}
+
+.wrapper h4 {
+    margin: 0;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
